@@ -23,7 +23,7 @@ I am currently pursuing an bachelor degree in **Data Science and Technology** (D
 
 #### ✨ Fun Fact ...
 - I ~~am~~was proficient at playing the piano🎹, but I haven't practiced for many years.
-- I am a member of an A cappella group🎤 of HKUST. A cappella is a vocal performance style characterized by unaccompanied harmonies.
+- I am a member of an A cappella group🎤 of HKUST.
 - I am a cat😺 lover.
 - The games🎮 I have been playing recently are Zenless Zone Zero and Euro Truck Simulator 2.
 - The anime📺 I enjoy watching is Demon Slayer: Kimetsu no Yaiba.
