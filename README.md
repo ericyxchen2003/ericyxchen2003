@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi There!👋🏻 I'm Eric
 
-<!--
-**ericyxchen2003/ericyxchen2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+I am  **CHEN, Yixiang** from Shanghai. You can simply call me **Eric**.
 
-Here are some ideas to get you started:
+I am currently pursuing an bachelor degree in **Data Science and Technology** (DSCT)📚 at the **Hong Kong University of Science and Technology** (HKUST)🎓.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+#### 🔬 I am currently working on ...
+- Undergraduate mathematics and computer science courses✒️
+- A undergraduate research opportunities program related to point cloud registration (PCA)💻
+
+#### 🌱 I am currently learning ...
+- Database Management System. To be honest, I don't like this course😥.
+- Neural Network. I'm teaching myself through videos online🌐.
+- Maybe I'll take a course on machine learning, image processing, or optimization next semester.
+
+#### 🔎 My field of interest ...
+- Pure Mathematics❤️‍🔥. Perhaps I will continue  to study complex analysis.
+- Probability Theory😍.
+- Computer Science🤔. I have primarily focused on studying mathematics in the past, and I hope to apply the knowledge I have gained through computer science. Additionally, I find computer science itself to be incredibly fascinating.
+
+#### ✨ Fun Fact ...
+- I ~~am~~was proficient at playing the piano🎹, but I haven't practiced for many years.
+- I am a member of an A cappella group🎤 of HKUST. A cappella is a vocal performance style characterized by unaccompanied harmonies.
+- I am a cat😺 lover.
+- The games🎮 I have been playing recently are Zenless Zone Zero and Euro Truck Simulator 2.
+- The anime📺 I enjoy watching is Demon Slayer: Kimetsu no Yaiba.
+
+(Last Updated on Jun. 7th)
+
