@@ -9,7 +9,7 @@ I am currently pursuing an bachelor degree in **Data Science and Technology** (D
 
 #### 🔬 I am currently working on ...
 - Undergraduate mathematics and computer science courses✒️
-- A undergraduate research opportunities program related to point cloud registration (PCA)💻
+- A undergraduate research opportunities program related to point cloud registration (PCR)💻
 
 #### 🌱 I am currently learning ...
 - Database Management System. To be honest, I don't like this course😥.
