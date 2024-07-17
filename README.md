@@ -26,7 +26,7 @@ I am currently pursuing an bachelor degree in **Data Science and Technology** (D
 - I am a member of an A cappella group🎤 of HKUST.
 - I am a cat😺 lover.
 - The games🎮 I have been playing recently are Zenless Zone Zero and Euro Truck Simulator 2.
-- The anime📺 I enjoy watching is Demon Slayer: Kimetsu no Yaiba.
+- The anime📺 I enjoy watching is Demon Slayer.
 
 (Last Updated on Jun. 17th)
 
