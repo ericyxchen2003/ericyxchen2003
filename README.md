@@ -28,5 +28,5 @@ I am currently pursuing an bachelor degree in **Data Science and Technology** (D
 - The games🎮 I have been playing recently are Zenless Zone Zero and Euro Truck Simulator 2.
 - The anime📺 I enjoy watching is Demon Slayer.
 
-(Last Updated on Jun. 17th)
+(Last Updated on Jul. 17th)
 
