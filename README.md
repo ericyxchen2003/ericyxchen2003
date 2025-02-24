@@ -23,8 +23,7 @@ I am currently pursuing an bachelor degree in **Data Science and Technology** (D
 - I ~~am~~was proficient at playing the piano🎹, but I haven't practiced for many years.
 - I am a vocalist and beatboxer in an Acappella group🎤 of HKUST.
 - I am a cat😺 lover.
-- The games🎮 I have been playing recently are Forza 4 and Cities: Skylines.
-- I am a fan of NewJeans.
+- I listen to KPOP and I am a fan of NJZ.
 
 (Last Updated on Dec. 14th)
 
