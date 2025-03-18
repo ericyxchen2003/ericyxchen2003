@@ -6,7 +6,7 @@ I am  **CHEN, Yixiang** from Shanghai. You can simply call me **Eric**.
 I am currently pursuing an bachelor degree in **Data Science and Technology** (DSCT)📚 at the **Hong Kong University of Science and Technology** (HKUST)🎓. I participated in the exchange program in the computer science session at **École polytechnique fédérale de Lausanne** (EPFL) in 2024-25 Fall.
 
 #### 🔬 I am currently working on ...
-- an undergraduate research program.
+- an undergraduate research program, dealing with natural language processing.
 
 #### 🌱 I am currently learning ...
 - knowledge about LLM,
